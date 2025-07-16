@@ -1,0 +1,7 @@
+REGISTER_ERROR_NOT_UNIC_USER = "User already exists"
+REGISTER_ERROR_MISSED_REQUIRED_FIELD = "Email, password and name are required fields"
+LOGIN_ERROR_NOT_VALID_DATA = "email or password are incorrect"
+USER_NOT_AUTH = "You should be authorised"
+ORDER_WITHOUT_INGREDIENTS = "Ingredient ids must be provided"
+ORDER_WITH_WRONG_INGREDIENT = "One or more ids provided are incorrect"
+GET_ORDER_LIST_WITHOUT_AUTH = "You should be authorised"
